@@ -10,7 +10,7 @@ The app consumes the backend of the website:
 ### `git clone https://github.com/omarAlexis1999/fronted-btc-prediction-.git`
 Then enter the created folder.
 
-*cd fronted-btc-prediction-*
+**`cd fronted-btc-prediction-`**
 ### `npm install`
 Installs a package and any packages that it depends on. If the package has a package-lock.
 
