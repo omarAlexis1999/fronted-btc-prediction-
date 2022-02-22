@@ -26,6 +26,6 @@ You may also see any lint errors in the console.
 
 
 ## Authors 
-Project Created by **Omar Sanmartin and Johanna la de QA Montaño**
+Project Created by **Omar Sanmartin and Johanna Montaño**
 
 
